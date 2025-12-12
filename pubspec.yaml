@@ -1,0 +1,3 @@
+name: renovate_reproduction_39959
+environment:
+  sdk: ^3.9.0
